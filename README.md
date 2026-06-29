@@ -1,5 +1,5 @@
 
-<img width="1052" height="757" alt="Screenshot 2026-06-29 120350" src="https://github.com/user-attachments/assets/959a456d-6969-42d6-8d56-2e848e9a59c5" />
+
 # 🎣 DeepBait
 
 **Fake LinkedIn Profile Detector — OSINT + ML**
